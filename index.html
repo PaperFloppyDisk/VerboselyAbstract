@@ -14,9 +14,46 @@ p {
   font-family: helvetica;
   font-size: 20px;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: grey;
+}
 </style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul></style>
+  
 <h1>PaperFloppyDisk</h1>
-<h2>About Me</h2>
+<h2>Welcome</h2>
 <p>I am currently studying to learn more about web development. </p>
 <p>I plan to use this site as a place to test code and showcase some of my prokects</p>
 
