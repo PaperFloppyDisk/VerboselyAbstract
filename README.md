@@ -1,9 +1,13 @@
-# VerboselyAbstract
+# Hi there, my name's Bram
 
-### What is this?
-This is a small site which I am planning to use for showcasing some of the projects 
-I make while learning and possible for blogging about this process.
+### Who am I?
+I am an ex-academic philosopher turned network engineer & software developer.
+I have experience working with enterprise network technologies ranging from switches, NGINX, firewalls, and security systems.
+I am continuing to learn and strengthen my skills as a software developer focusing on HTML, CSS, JavaScript and Python.
+When I am not directly learning about web development I am an active Game Boy hacker working with assembly for the Game Boy and Game Boy Color
 
 ### My goals
-I am currently employed for a software development company and my goal is to learn through practicing here
-and ultimately transition into a more technical web developer role.
+I am currently looking for an entry role in web development.
+
+### Other Stuff
+I am fluent in English and German and am currently learning Hebrew.
