@@ -1,4 +1,4 @@
-# Hi there, my name's Brando
+# Hi there, my name's Bram
 
 ### Who am I?
 I am an ex-academic philosopher turned network engineer & software developer.
